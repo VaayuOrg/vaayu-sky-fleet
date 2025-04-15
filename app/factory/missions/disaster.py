@@ -1,0 +1,1 @@
+# Disaster mission class
