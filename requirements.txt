@@ -1,0 +1,6 @@
+# Add your dependencies here
+
+pymongo
+python-dotenv
+flask
+boto3

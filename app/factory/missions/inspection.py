@@ -1,0 +1,1 @@
+# Inspection mission class
