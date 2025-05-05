@@ -1,6 +1,6 @@
 import os
 from botocore.exceptions import NoCredentialsError, ClientError
-from database.clients.aws_client import AWSClient
+from factory.clients.aws_client import AWSClient
 
 # inovokes aws_client and uses it to define S3 operations
 class S3Client():
